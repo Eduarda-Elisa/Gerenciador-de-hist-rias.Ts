@@ -1,0 +1,10 @@
+{
+    "name": "story_manager",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "tsc app.ts && node app.js"
+    },
+    "devDependencies": {
+        "@types/node": "^22.5.5"
+    }
+}

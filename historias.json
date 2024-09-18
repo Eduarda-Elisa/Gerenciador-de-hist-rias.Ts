@@ -1,0 +1,176 @@
+[
+    {
+        "sistemas": [
+            {
+                "nome": "navegação",
+                "historias": [
+                    {
+                        "titulo": "Teste do sistema de navegação em condições climáticas adversas",
+                        "descricao": "O objetivo deste teste é verificar o desempenho do sistema de navegação do carro autônomo em condições climáticas adversas, como chuva forte e neve.",
+                        "responsavel": "João Silva",
+                        "data_conclusao": "2022-02-15",
+                        "resultados": "O sistema de navegação passou no teste com sucesso, conseguindo manter a precisão da navegação mesmo em condições climáticas desfavoráveis.",
+                        "anexos": [
+                            "relatorio_teste_navegacao.pdf",
+                            "foto_teste_navegacao.jpg"
+                        ]
+                    },
+                    {
+                        "titulo": "Teste do sistema de navegação em áreas urbanas",
+                        "descricao": "O objetivo deste teste é verificar o desempenho do sistema de navegação do carro autônomo em áreas urbanas, com ruas estreitas e trânsito intenso.",
+                        "responsavel": "Maria Santos",
+                        "data_conclusao": "2022-03-20",
+                        "resultados": "O sistema de navegação passou no teste com sucesso, conseguindo manter a precisão da navegação e evitar colisões em ruas estreitas e com trânsito intenso.",
+                        "anexos": [
+                            "relatorio_teste_navegacao_urbano.pdf",
+                            "foto_teste_navegacao_urbano.jpg"
+                        ]
+                    },
+                    {
+                        "titulo": "mag acordada",
+                        "descricao": "andando",
+                        "responsavel": "Lucas",
+                        "data_conslusao": "18/09/2024",
+                        "resultados": "correndo",
+                        "anexos": []
+                    },
+                    {
+                        "titulo": "mag dormindo",
+                        "descricao": "no sofa",
+                        "responsavel": "lucas",
+                        "data_conslusao": "17/09/2024",
+                        "resultados": "sono profundo",
+                        "anexos": []
+                    },
+                    {
+                        "titulo": "mag dormindo",
+                        "descricao": "no sofa",
+                        "responsavel": "lucas",
+                        "data_conslusao": "17/09/2024",
+                        "resultados": "sono profundo",
+                        "anexos": []
+                    }
+                ]
+            },
+            {
+                "nome": "sensores",
+                "historias": [
+                    {
+                        "titulo": "Teste do sistema de sensores em condições de baixa visibilidade",
+                        "introducao": "O sistema de sensores é fundamental para o funcionamento seguro do carro autônomo, pois é através dele que o veículo coleta informações sobre o ambiente ao seu redor. É importante, portanto, garantir que o sistema esteja funcionando corretamente em diferentes condições de visibilidade.",
+                        "texto": "Realizamos um teste do sistema de sensores em condições de neblina e chuva, e os resultados foram satisfatórios. O sistema foi capaz de detectar obstáculos e outros veículos com precisão, garantindo a segurança do carro autônomo em situações de baixa visibilidade.",
+                        "responsavel": "João Silva",
+                        "data_conclusao": "2022-01-01",
+                        "resultados": "Aprovado",
+                        "anexos": [
+                            "imagem1.jpg",
+                            "relatorio1.pdf"
+                        ]
+                    },
+                    {
+                        "titulo": "Teste do sistema de sensores em alta velocidade",
+                        "introducao": "Um dos desafios do sistema de sensores é garantir a precisão das informações coletadas em altas velocidades. Por isso, realizamos um teste do sistema em uma pista de testes.",
+                        "texto": "O teste foi um sucesso e o sistema foi capaz de coletar informações precisas sobre o ambiente ao redor do carro autônomo, mesmo em velocidades máximas. Estamos satisfeitos com os resultados e acreditamos que o sistema de sensores está pronto para ser implementado nos carros autônomos da Ford.",
+                        "responsavel": "Maria Santos",
+                        "data_conclusao": "2022-02-01",
+                        "resultados": "Aprovado",
+                        "anexos": [
+                            "imagem2",
+                            "relatorio2.pdf"
+                        ]
+                    }
+                ]
+            },
+            {
+                "nome": "frenagem",
+                "historias": [
+                    {
+                        "titulo": "Teste do sistema de frenagem em altas velocidades",
+                        "introducao": "O sistema de frenagem é um componente fundamental para a segurança do carro autônomo. Por isso, é importante garantir que ele funcione corretamente em altas velocidades.",
+                        "texto": "Realizamos um teste do sistema de frenagem em uma pista de testes com velocidades até 250 km/h. O sistema funcionou perfeitamente, conseguindo reduzir a velocidade do veículo rapidamente e de forma segura.",
+                        "responsavel": "Sarah",
+                        "data_conclusao": "2022-12-01",
+                        "resultados": "Sucesso",
+                        "anexos": [
+                            "imagem1.jpg",
+                            "relatorio_teste.pdf"
+                        ]
+                    },
+                    {
+                        "titulo": "Teste do sistema de frenagem em piso molhado",
+                        "introducao": "O sistema de frenagem também deve funcionar corretamente em condições adversas, como piso molhado. Realizamos um teste para avaliar o desempenho do sistema nessas condições.",
+                        "texto": "O sistema de frenagem se comportou de forma satisfatória durante o teste em piso molhado, conseguindo reduzir a velocidade do veículo de forma segura e sem perda de controle.",
+                        "responsavel": "Iury",
+                        "data_conclusao": "2022-12-15",
+                        "resultados": "Sucesso",
+                        "anexos": [
+                            "imagem2.jpg",
+                            "relatorio_teste.pdf"
+                        ]
+                    }
+                ]
+            },
+            {
+                "nome": "direção",
+                "historias": [
+                    {
+                        "titulo": "Teste do sistema de direção em pista de alta velocidade",
+                        "introducao": "O sistema de direção é fundamental para garantir a estabilidade e o controle do carro autônomo em altas velocidades. Por isso, é importante realizar testes rigorosos para garantir a segurança dos usuários.",
+                        "texto": "Realizamos um teste do sistema de direção em uma pista de alta velocidade, simulando condições de altas velocidades e curvas acentuadas. O carro autônomo conseguiu manter o controle e a estabilidade em todas as condições, atingindo velocidades máximas de 250 km/h. Estamos muito satisfeitos com os resultados e esperamos que essa tecnologia traga mais segurança para os usuários do carro autônomo.",
+                        "responsavel": "Tuba",
+                        "data": "2022-06-01",
+                        "resultados": "Sucesso",
+                        "anexos": [
+                            "relatorio_teste_direcao.pdf",
+                            "foto_pista_alta_velocidade.jpg"
+                        ]
+                    },
+                    {
+                        "titulo": "Teste do sistema de direção em condições de neve",
+                        "introducao": "O sistema de direção também precisa garantir o controle do carro autônomo em condições adversas, como neve e gelo. Por isso, realizamos testes específicos para avaliar a performance do sistema nessas condições.",
+                        "texto": "Realizamos um teste do sistema de direção em uma pista coberta de neve. O carro autônomo conseguiu manter o controle e a estabilidade, mesmo em curvas acentuadas e manobras bruscas.",
+                        "responsavel": "Rix",
+                        "data": "2022-06-01",
+                        "resultados": "Sucesso",
+                        "anexos": [
+                            "relatorio_teste_direcao.pdf",
+                            "foto_pista_alta_velocidade.jpg"
+                        ]
+                    }
+                ]
+            },
+            {
+                "nome": "sistema de comunicação",
+                "historias": [
+                    {
+                        "titulo": "Teste do sistema de comunicação em áreas de má cobertura de sinal",
+                        "introducao": "O sistema de comunicação é fundamental para garantir a conectividade e segurança do carro autônomo. Por isso, é importante testá-lo em condições de má cobertura de sinal para garantir sua eficiência em todas as situações.",
+                        "texto": "Realizamos o teste em uma área rural com baixa cobertura de sinal e o sistema conseguiu manter a conectividade sem interrupções. Além disso, o sistema foi capaz de trocar informações com outros veículos e a infraestrutura de trânsito de forma rápida e precisa.",
+                        "responsável": "Braguinha",
+                        "data_conclusao": "2022-01-01",
+                        "resultados": "Sucesso",
+                        "anexos": [
+                            "relatorio_teste_sistema_comunicacao.pdf"
+                        ]
+                    }
+                ]
+            },
+            {
+                "nome": "bateria",
+                "historias": [
+                    {
+                        "titulo": "Teste de duração da bateria em condições de uso intenso",
+                        "introducão": "O sistema de bateria é fundamental para o funcionamento do carro autônomo. Por isso, é importante garantir que ela tenha uma duração suficiente mesmo em condições de uso intensivo.",
+                        "texto": "Realizamos um teste com o carro autônomo percorrendo uma distância de 500 km em condições de trânsito intenso, com muitas paradas e acelerações. A bateria conseguiu suportar o uso durante todo o percurso, sem precisar de recarga. Ficamos satisfeitos com o resultado e acreditamos que a bateria tem um bom potencial para suportar uso intensivo.",
+                        "responsável": "João da Silva",
+                        "data_conclusão": "2022-01-01",
+                        "resultados": "A bateria conseguiu suportar o uso intensivo durante todo o percurso de 500 km sem precisar de recarga.",
+                        "anexos": [
+                            "relatorio_teste_bateria.pdf"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
